@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Xboyx\\OneDrive\\Документы\\CWgb1\\CWgb1.csproj": {}
+    "C:\\Users\\Xboyx\\OneDrive\\Документы\\CWgb1\\code\\CWgb1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Xboyx\\OneDrive\\Документы\\CWgb1\\CWgb1.csproj": {
+    "C:\\Users\\Xboyx\\OneDrive\\Документы\\CWgb1\\code\\CWgb1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Xboyx\\OneDrive\\Документы\\CWgb1\\CWgb1.csproj",
+        "projectUniqueName": "C:\\Users\\Xboyx\\OneDrive\\Документы\\CWgb1\\code\\CWgb1.csproj",
         "projectName": "CWgb1",
-        "projectPath": "C:\\Users\\Xboyx\\OneDrive\\Документы\\CWgb1\\CWgb1.csproj",
+        "projectPath": "C:\\Users\\Xboyx\\OneDrive\\Документы\\CWgb1\\code\\CWgb1.csproj",
         "packagesPath": "C:\\Users\\Xboyx\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Xboyx\\OneDrive\\Документы\\CWgb1\\obj\\",
+        "outputPath": "C:\\Users\\Xboyx\\OneDrive\\Документы\\CWgb1\\code\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Xboyx\\AppData\\Roaming\\NuGet\\NuGet.Config"
