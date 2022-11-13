@@ -1,0 +1,15 @@
+C:\Users\Xboyx\OneDrive\Документы\CWgb1\bin\Debug\net6.0\CWgb1.exe
+C:\Users\Xboyx\OneDrive\Документы\CWgb1\bin\Debug\net6.0\CWgb1.deps.json
+C:\Users\Xboyx\OneDrive\Документы\CWgb1\bin\Debug\net6.0\CWgb1.runtimeconfig.json
+C:\Users\Xboyx\OneDrive\Документы\CWgb1\bin\Debug\net6.0\CWgb1.dll
+C:\Users\Xboyx\OneDrive\Документы\CWgb1\bin\Debug\net6.0\CWgb1.pdb
+C:\Users\Xboyx\OneDrive\Документы\CWgb1\obj\Debug\net6.0\CWgb1.csproj.AssemblyReference.cache
+C:\Users\Xboyx\OneDrive\Документы\CWgb1\obj\Debug\net6.0\CWgb1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xboyx\OneDrive\Документы\CWgb1\obj\Debug\net6.0\CWgb1.AssemblyInfoInputs.cache
+C:\Users\Xboyx\OneDrive\Документы\CWgb1\obj\Debug\net6.0\CWgb1.AssemblyInfo.cs
+C:\Users\Xboyx\OneDrive\Документы\CWgb1\obj\Debug\net6.0\CWgb1.csproj.CoreCompileInputs.cache
+C:\Users\Xboyx\OneDrive\Документы\CWgb1\obj\Debug\net6.0\CWgb1.dll
+C:\Users\Xboyx\OneDrive\Документы\CWgb1\obj\Debug\net6.0\refint\CWgb1.dll
+C:\Users\Xboyx\OneDrive\Документы\CWgb1\obj\Debug\net6.0\CWgb1.pdb
+C:\Users\Xboyx\OneDrive\Документы\CWgb1\obj\Debug\net6.0\CWgb1.genruntimeconfig.cache
+C:\Users\Xboyx\OneDrive\Документы\CWgb1\obj\Debug\net6.0\ref\CWgb1.dll
